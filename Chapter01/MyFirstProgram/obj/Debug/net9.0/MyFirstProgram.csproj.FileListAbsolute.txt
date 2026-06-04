@@ -1,0 +1,28 @@
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.deps.json
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.runtimeconfig.json
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.dll
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.pdb
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.AssemblyInfo.cs
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.dll
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/refint/MyFirstProgram.dll
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.pdb
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.genruntimeconfig.cache
+/Users/edljr/pCloud Drive/EDL - Publications/Orange AVA/450 C# Programming Fundamentals/Code/CH01/MyFirstProgram/obj/Debug/net9.0/ref/MyFirstProgram.dll
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.deps.json
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.runtimeconfig.json
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.dll
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/bin/Debug/net9.0/MyFirstProgram.pdb
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.AssemblyInfoInputs.cache
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.AssemblyInfo.cs
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.csproj.CoreCompileInputs.cache
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.dll
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/refint/MyFirstProgram.dll
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.pdb
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/MyFirstProgram.genruntimeconfig.cache
+/Users/edljr/Desktop/Code/CH01/MyFirstProgram/obj/Debug/net9.0/ref/MyFirstProgram.dll

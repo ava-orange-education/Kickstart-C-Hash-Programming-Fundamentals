@@ -1,0 +1,14 @@
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/bin/Debug/net9.0/RVProject
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/bin/Debug/net9.0/RVProject.deps.json
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/bin/Debug/net9.0/RVProject.runtimeconfig.json
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/bin/Debug/net9.0/RVProject.dll
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/bin/Debug/net9.0/RVProject.pdb
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.AssemblyInfoInputs.cache
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.AssemblyInfo.cs
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.csproj.CoreCompileInputs.cache
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.dll
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/refint/RVProject.dll
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.pdb
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/RVProject.genruntimeconfig.cache
+/Users/edljr/Desktop/Code/CH08/RVProject/RVProject/obj/Debug/net9.0/ref/RVProject.dll
