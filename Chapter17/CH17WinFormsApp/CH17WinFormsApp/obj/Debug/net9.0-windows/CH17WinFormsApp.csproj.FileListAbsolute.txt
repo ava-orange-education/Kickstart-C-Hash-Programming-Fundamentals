@@ -1,0 +1,14 @@
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\bin\Debug\net9.0-windows\CH17WinFormsApp.exe
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\bin\Debug\net9.0-windows\CH17WinFormsApp.deps.json
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\bin\Debug\net9.0-windows\CH17WinFormsApp.runtimeconfig.json
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\bin\Debug\net9.0-windows\CH17WinFormsApp.dll
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\bin\Debug\net9.0-windows\CH17WinFormsApp.pdb
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.AssemblyInfoInputs.cache
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.AssemblyInfo.cs
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.csproj.CoreCompileInputs.cache
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.dll
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\refint\CH17WinFormsApp.dll
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.pdb
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\CH17WinFormsApp.genruntimeconfig.cache
+P:\EDL - Publications\Orange AVA\450 C# Programming Fundamentals\Code\CH17WinFormsApp\CH17WinFormsApp\obj\Debug\net9.0-windows\ref\CH17WinFormsApp.dll

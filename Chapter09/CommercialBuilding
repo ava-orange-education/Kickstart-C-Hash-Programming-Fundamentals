@@ -1,0 +1,10 @@
+public class CommercialBuilding : Building
+{
+    public int OfficeUnits;
+
+    public CommercialBuilding(string name, int floors, string address, int officeUnits)
+        : base(name, floors, address)
+    {
+        OfficeUnits = officeUnits;
+    }
+}
